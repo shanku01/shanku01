@@ -1,9 +1,6 @@
 ## Hi there 👋 
 
 
-<a href="https://twitter.com/1hewhitetiger">
-  <img align="left" alt="Shashank's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/iamshanku">
   <img align="left" alt="shashank's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,12 +8,12 @@
 <br/>
 
 
-- 🔭 I’m currently working on Webfolio.
+- 🔭 I’m currently working on TourGarh.
 - 🌱 I’m currently learning node.js.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with Front End Development.
 - 💬 Ask me about React and Redux.
-- 📫 How to reach me:  LinkedIn - [@iamshanku](https://www.linkedin.com/in/iamshanku/)   Twitter - [@1hewhitetiger](https://twitter.com/1hewhitetiger) 
+- 📫 How to reach me:  LinkedIn - [@iamshanku](https://www.linkedin.com/in/iamshanku/)  
 
 
 **Languages and Tools:**  
