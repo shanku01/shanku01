@@ -8,8 +8,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on NoteUp.
-- 🌱 I’m currently learning pyhton.
+- 🔭 I’m a software developer with 2.5 years of experience.
+- 🌱 I’m currently working on a travel website.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with Front End Development.
 - 💬 Ask me about React and Redux.
