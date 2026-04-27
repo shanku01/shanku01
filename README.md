@@ -1,31 +1,48 @@
-## Hi there 👋 
+## Hi there 👋 I'm Shashank Pradhan
 
-
-<a href="https://www.linkedin.com/in/iamshanku">
-  <img align="left" alt="shashank's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shashankpradhan4x4/">
+  <img align="left" alt="Shashank's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <br/>
 <br/>
 
+- 💻 Software Engineer with 4+ years of experience building scalable web & mobile applications  
+- 🚀 Currently building travel-tech products and experimenting with AI-driven consumer apps  
+- 📱 Experienced in React, React Native, JavaScript, TypeScript, Node.js, Redux, and frontend architecture  
+- 🍽️ Built products across food-tech, restaurant consulting, and location-based discovery platforms  
+- 🌱 Exploring Product Management, AI integrations, and startup building  
+- 👯 Open to collaborating on innovative products and startup ideas  
+- 💬 Ask me about React, Frontend Engineering, Product Thinking, and UI Development  
+- 📫 Reach me on LinkedIn: [@shashankpradhan4x4](https://www.linkedin.com/in/shashankpradhan4x4/)  
 
-- 🔭 I’m a software developer with 2.5 years of experience.
-- 🌱 I’m currently working on a travel website.
-- 👯 I’m looking to collaborate on LinkedIn.
-- 🤔 I’m looking for help with Front End Development.
-- 💬 Ask me about React and Redux.
-- 📫 How to reach me:  LinkedIn - [@iamshanku](https://www.linkedin.com/in/iamshanku/)  
+---
 
+### Tech Stack
 
-**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-</a>
+---
 
-### Show some ❤️ by starring some of the repositories!
+### Currently Building
 
-</div>
+✨ Travel platforms  
+✨ AI-first consumer products  
+✨ Food-tech solutions  
+✨ Product case studies & startup experiments  
+
+---
+
+### Fun Fact
+
+I’ve worked across both **tech and hospitality**, which gives me a unique perspective on building products people actually enjoy using.
+
+⭐ Feel free to explore my repositories and connect with me!
